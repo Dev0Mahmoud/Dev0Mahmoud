@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud Khalil
-- - 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : mahmoud000khalil@gmail.com
