@@ -1,5 +1,9 @@
+
+<h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
 <h3 align="center">Junior Mobile Application Developer</h3>
-- 👋 Hi, I’m Mahmoud Khalil
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
+
+
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on Open Source Projects
