@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
-<h3 align="center">Junior Mobile Application Developer</h3>
+<h3 align="center">Mobile Application Flutter Developer</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
 
 
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning deeply Flutter 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : mahmoud000khalil@gmail.com
 
