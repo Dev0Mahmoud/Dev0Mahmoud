@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻;And+what+I've+hidden+was+the+greatest." />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&lines=And+what+I've+hidden+was+the+greatest.🧑‍💻" />
 </p>
+
 
 
 - 👀 I’m interested in Mobile Development
