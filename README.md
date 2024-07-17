@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
-<h3 align="center">And what I've hidden was the greatest.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻;And+what+I've+hidden+was+the+greatest." />
+</p>
+
 
 - 👀 I’m interested in Mobile Development
 - 💞️ I’m looking to collaborate on Open Source Projects
@@ -20,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" />]()
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" />]()
 [<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" />]()
-[<img align="left" alt="Play Console" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Google_Play_logo.svg" />]()
-[<img align="left" alt="Apple Connect" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" />]()
-[<img align="left" alt="OneSignal" width="26px" src="https://cdn.worldvectorlogo.com/logos/onesignal-1.svg" />]()
+[<img align="left" alt="Play Console" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/3/34/Google_Play_logo.svg](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole&hl=en)" />]()
+[<img align="left" alt="Apple Connect" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg](https://static.wikia.nocookie.net/logopedia/images/7/74/Asc-outline-128x128_2x.png/revision/latest?cb=20210628214620)" />]()
+[<img align="left" alt="OneSignal" width="26px" src="[https://cdn.worldvectorlogo.com/logos/onesignal-1.svg](https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGUu3PKR81EI-diBaYtXrnms=/onesignal-plugin-2023-01-04%2000-00-00-2024-04-10%2011-00-01)" />]()
