@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" />
 </p>
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=What+I+made+private+was+my+greatest+achievement.&center=true&pause=3000" />
+</p>
 
 
 
