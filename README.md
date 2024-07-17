@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile+🧑‍💻;" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=What+I+made+private+was+my+greatest+achievement+&pause=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&lines=Welcome+to+my+GitHub+Profile+🧑‍💻;What's+private+is+the+greatest.&pause=3000" />
 </p>
+
 
 
 
