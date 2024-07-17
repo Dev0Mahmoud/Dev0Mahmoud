@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khalil</h1>
 <h3 align="center">Mobile Application Flutter Developer</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
+<h3 align="center">And what I've hidden was the greatest.</h3>
 
 - 👀 I’m interested in Mobile Development
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: mahmoud000khalil@gmail.com
-- 🌟 "And what I've hidden was the greatest."
 
 <!---
 M0o0dy/M0o0dy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
